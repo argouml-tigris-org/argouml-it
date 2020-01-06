@@ -16,6 +16,24 @@
       "revId": "e6dd676625ca88381456b601a8e71a924f85fa4f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6cf04aab_2103953d",
+        "filename": "tests/org/argouml/i18n/TestItKeys.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1016795
+      },
+      "writtenOn": "2020-01-06T12:57:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e96d9b74_6b02ad87",
+      "revId": "e6dd676625ca88381456b601a8e71a924f85fa4f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
